@@ -1,0 +1,8 @@
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\bin\Debug\AreaDeTriangulo.exe.config
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\bin\Debug\AreaDeTriangulo.exe
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\bin\Debug\AreaDeTriangulo.pdb
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\obj\Debug\AreaDeTriangulo.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\obj\Debug\AreaDeTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\obj\Debug\AreaDeTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\obj\Debug\AreaDeTriangulo.exe
+C:\Users\Sergio\Desktop\Curso NET\AreaDeTriangulo\AreaDeTriangulo\obj\Debug\AreaDeTriangulo.pdb
